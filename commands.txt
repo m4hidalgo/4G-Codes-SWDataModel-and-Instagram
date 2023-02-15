@@ -1,0 +1,2 @@
+Para crear un nuevo programa
+    python src/models.py
